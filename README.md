@@ -9,3 +9,7 @@ The bot uses the `transliterate` function from the https://github.com/kodchi/uzb
 
 - Transliterate Uzbek text from **Cyrillic to Latin**
 - Transliterate Uzbek text from **Latin to Cyrillic**
+
+## Run
+```bash
+python main.py
